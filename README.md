@@ -16,7 +16,7 @@ To write a python program to perform stop and wait protocol
 
 5. If your frames reach the server it will send ACK signal to client otherwise it will sendNACK signal to client.
 
-6.Stop the program
+   6.Stop the program
 
 
 
